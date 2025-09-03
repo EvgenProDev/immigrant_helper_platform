@@ -50,7 +50,6 @@ A comprehensive web application designed to help newcomers navigate Canadian imm
 - **ESLint** for code linting
 - **TypeScript** for type safety
 - **PostCSS** with Autoprefixer
-- **Lovable Tagger** for component tracking
 
 ## 🚀 Getting Started
 
@@ -171,23 +170,12 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Important Disclaimers
 
 - **Legal Notice**: This application provides general information only and should not be considered legal advice
 - **Official Sources**: Always verify information with official government sources
 - **Professional Consultation**: For specific legal matters, consult with qualified immigration lawyers
 - **Data Accuracy**: While we strive for accuracy, immigration policies change frequently
-
-## 🆘 Support
-
-For support, please:
-1. Check the community forum for similar questions
-2. Review the AI assistant responses
-3. Contact the development team through GitHub issues
 
 ## 🔮 Future Enhancements
 
